@@ -12,3 +12,4 @@ Current app can perform the followings:
 2. Support Editing todo items
 3. Persist todo items and retrieve them properly on app restart
 
+![Alt Text](file:///Users/san/Documents/To-Do%20List%20Basic%20Demo.gif)
